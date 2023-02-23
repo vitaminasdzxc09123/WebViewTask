@@ -1,0 +1,5 @@
+export default {
+    GET_WEB_SITES_LIST    : 'GET_WEB_SITES_LIST',
+    UPDATE_WEB_SITES_LIST : 'UPDATE_WEB_SITES_LIST',
+
+};

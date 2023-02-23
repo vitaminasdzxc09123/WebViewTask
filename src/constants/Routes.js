@@ -1,0 +1,9 @@
+export default {
+
+    // NAVIGATION STACKS
+    MAIN_STACK : 'MAIN_STACK',
+
+    // SCREENS
+    HOME_SCREEN     : 'HOME_SCREEN',
+    WEB_VIEW_SCREEN : 'WEB_VIEW_SCREEN'
+};
